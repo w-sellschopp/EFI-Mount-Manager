@@ -8,7 +8,6 @@
 Eine native macOS Menübar-App zum Mounten und Unmounten von EFI-Partitionen.
 Ideal für Hackintosh-User die regelmäßig auf die EFI zugreifen müssen.
 
-![Screenshot](screenshots/menu.png)
 
 ## Features
 
