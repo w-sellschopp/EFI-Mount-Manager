@@ -137,7 +137,7 @@ Die App nutzt:
 
 ## Lizenz
 
-MIT License — siehe [LICENSE](LICENSE) für Details.
+MIT License — siehe ([LICENSE](https://en.wikipedia.org/wiki/MIT_License)) für Details.
 
 ## Autor
 
